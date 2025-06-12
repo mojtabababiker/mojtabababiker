@@ -55,7 +55,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mojtaba-mohammed-72b50823a" target="_blank">
+  <a href="https://linkedin.com/in/mojtaba-mohammed" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto://mojmohammad98@gmail.cm" target="_blank">
