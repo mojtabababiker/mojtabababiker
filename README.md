@@ -50,7 +50,7 @@
 
 ###
 
-<h6 align="left">We can connect (-:</h6>
+<h6 align="center">We can connect (-:</h6>
 
 ###
 
