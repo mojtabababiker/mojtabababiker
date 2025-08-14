@@ -58,7 +58,7 @@
   <a href="https://linkedin.com/in/mojtaba-mohammed" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto://mojmohammad98@gmail.com" target="_blank">
+  <a href="mailto:mojmohammad98@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://mojtaba-dev.vercel.app" target="_blank">
